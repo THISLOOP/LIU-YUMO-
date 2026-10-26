@@ -1,0 +1,12 @@
+{
+  "name": "ip-quanan-marketplace",
+  "plugins": [
+    {
+      "name": "ip-quanan-skil1",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ip-quanan-skil1"
+      }
+    }
+  ]
+}
